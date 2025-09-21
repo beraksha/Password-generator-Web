@@ -14,7 +14,7 @@ A simple, interactive web-based password generator that creates secure passwords
   - For live reloading during development, use VS Code's Live Server extension:
     - Install the extension if needed.
     - Right-click `index.html` and select "Open with Live Server".
-3. No additional dependencies or installations required—everything runs in the browser.
+3. No additional dependencies or installations required; everything runs in the browser.
 
 ## Usage
 1. Enter the desired password length in the input field.
